@@ -4,3 +4,7 @@ int main() {
     std::cout << "Hello, World!" << std::endl;
     return 0;
 }
+
+int addition(int x, int y) {
+    return x+y;
+}
